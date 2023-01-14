@@ -1,7 +1,7 @@
 # TelegramApi
 Jitpack Maven Central
 
-Java library that implements Telegram API to create Telegram Clients
+Java library that implements Telegram API to create Telegram Clients.
 
 # Useage
 Just add the library to your project with one of these options:
