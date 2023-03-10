@@ -17,7 +17,7 @@ Using Maven Central Repository:
 Using Jitpack 
 Download the jar(including all dependencies)
 
-# Telegram API and MTPROTO:
+# Telegram API and MTPROTO
 
 If you want more information about Telegram API, you can go here. And here you will find extra information about mtproto.
 
