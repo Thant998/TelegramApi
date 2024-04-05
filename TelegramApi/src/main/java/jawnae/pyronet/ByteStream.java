@@ -102,6 +102,5 @@ public class ByteStream {
       if (count != 0) {
          throw new PyroException("discarded " + (original - count) + "/" + original + " bytes");
       }
-   }
-   
+   }   
 }
