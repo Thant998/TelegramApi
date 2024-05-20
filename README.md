@@ -1,4 +1,4 @@
-# TelegramApi
+# TelegramApi :
 Jitpack Maven Central
 
 Java library that implements Telegram API to create Telegram Clients.
